@@ -1,0 +1,8 @@
+{
+	"folders": [{
+		"path": "."
+	}],
+	"settings": {
+		"dart.lineLength": 160
+	}
+}

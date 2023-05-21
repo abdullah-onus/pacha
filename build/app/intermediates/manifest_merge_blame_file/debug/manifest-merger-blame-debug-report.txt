@@ -1,0 +1,162 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.theparadisechallenge.app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml:6:22-64
+15
+16    <queries>
+16-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:26:5-47:11
+17
+18        <!-- If your app opens https URLs -->
+19        <intent>
+19-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:28:3-31:12
+20            <action android:name="android.intent.action.VIEW" />
+20-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:29:5-57
+20-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:29:13-54
+21
+22            <data android:scheme="https" />
+22-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:30:5-36
+22-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:30:11-33
+23        </intent>
+24        <!-- If your app makes calls -->
+25        <intent>
+25-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:33:3-36:12
+26            <action android:name="android.intent.action.DIAL" />
+26-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:34:5-57
+26-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:34:13-54
+27
+28            <data android:scheme="tel" />
+28-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:30:5-36
+28-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:30:11-33
+29        </intent>
+30        <!-- If your sends SMS messages -->
+31        <intent>
+31-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:38:3-41:12
+32            <action android:name="android.intent.action.SENDTO" />
+32-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:39:5-59
+32-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:39:13-56
+33
+34            <data android:scheme="smsto" />
+34-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:30:5-36
+34-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:30:11-33
+35        </intent>
+36        <!-- If your app sends emails -->
+37        <intent>
+37-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:43:3-46:12
+38            <action android:name="android.intent.action.SEND" />
+38-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:44:5-57
+38-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:44:13-54
+39
+40            <data android:mimeType="*/*" />
+40-->C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:30:5-36
+41        </intent>
+42    </queries>
+43
+44    <uses-permission android:name="android.permission.CAMERA" />
+44-->[:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+44-->[:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-62
+45    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+45-->[:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-71
+45-->[:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-68
+46    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+46-->[com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\ee1475fb93f384a690a0f9c22fac0af8\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:5-79
+46-->[com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\ee1475fb93f384a690a0f9c22fac0af8\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:22-76
+47
+48    <application
+49        android:name="android.app.Application"
+50        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+50-->[androidx.core:core:1.6.0] C:\Users\emiro\.gradle\caches\transforms-3\cbbd95a71c37efdfc64418cb4f36b641\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+51        android:debuggable="true"
+52        android:icon="@mipmap/ic_launcher"
+53        android:label="TPC"
+54        android:usesCleartextTraffic="true" >
+55        <activity
+56            android:name="com.theparadisechallenge.app.MainActivity"
+57            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+58            android:exported="true"
+59            android:hardwareAccelerated="true"
+60            android:launchMode="singleTop"
+61            android:theme="@style/LaunchTheme"
+62            android:windowSoftInputMode="adjustResize" >
+63
+64            <!--
+65                 Specifies an Android theme to apply to this Activity as soon as
+66                 the Android process has started. This theme is visible to the user
+67                 while the Flutter UI initializes. After that, this theme continues
+68                 to determine the Window background behind the Flutter UI.
+69            -->
+70            <meta-data
+71                android:name="io.flutter.embedding.android.NormalTheme"
+72                android:resource="@style/NormalTheme" />
+73
+74            <intent-filter>
+75                <action android:name="android.intent.action.MAIN" />
+76
+77                <category android:name="android.intent.category.LAUNCHER" />
+78            </intent-filter>
+79        </activity>
+80        <activity
+81            android:name="com.yalantis.ucrop.UCropActivity"
+82            android:screenOrientation="portrait"
+83            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+84        <!--
+85             Don't delete the meta-data below.
+86             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+87        -->
+88        <meta-data
+89            android:name="flutterEmbedding"
+90            android:value="2" />
+91
+92        <provider
+92-->[:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+93            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+93-->[:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+94            android:authorities="com.theparadisechallenge.app.flutter.image_provider"
+94-->[:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+95            android:exported="false"
+95-->[:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+96            android:grantUriPermissions="true" >
+96-->[:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+97            <meta-data
+97-->[:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+98                android:name="android.support.FILE_PROVIDER_PATHS"
+98-->[:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+99                android:resource="@xml/flutter_image_picker_file_paths" />
+99-->[:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+100        </provider>
+101
+102        <activity
+102-->[:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+103            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+103-->[:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+104            android:exported="false"
+104-->[:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+105            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+105-->[:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+106
+107        <uses-library
+107-->[androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+108            android:name="androidx.window.extensions"
+108-->[androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+109            android:required="false" />
+109-->[androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+110        <uses-library
+110-->[androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+111            android:name="androidx.window.sidecar"
+111-->[androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+112            android:required="false" />
+112-->[androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+113    </application>
+114
+115</manifest>

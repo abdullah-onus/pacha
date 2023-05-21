@@ -1,0 +1,1426 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2022-01-18T14:33:49.573",
+  "apiErrorInvalidUserOrPassword": "Invalid email, phone or password.",
+  "apiErrorUnableToConnect": "An error occurred while connecting to server. Please try again later.",
+  "appbarPreviousScreen": "Previous Screen",
+  "appHelpEmailAddress": "info@theparadisechallenge.com",
+  "appName": "The Paradise Challenge",
+  "appUrlPrivacyPolicy": "https://theparadisechallenge.com/privacy-policy",
+  "appUrlTermsOfService": "https://theparadisechallenge.com/terms-of-service",
+  "appUrlTwitter": "https://twitter.com/",
+  "appUrlFacebook": "https://www.facebook.com/",
+  "appUrlInstagram": "https://www.instagram.com/",
+  "localeDateRegularExpression": "r'[:.]",
+  "readableTimestampAHour": "A hour ago",
+  "readableTimestampAMinutes": "A minute ago",
+  "readableTimestampAMonth": "1 month ago",
+  "readableTimestampAWeek": "1 week ago",
+  "readableTimestampFewHours": "Few hours ago",
+  "readableTimestampFewMinutes": "Few minutes ago",
+  "readableTimestampFewSeconds": "Few seconds ago",
+  "readableTimestampHalfDay": "Half Day ago",
+  "readableTimestampHalfHour": "Half hour ago",
+  "readableTimestampInDays": "{count, plural, =1{1 day} other{{count} days}} ago",
+  "readableTimestampInHours": "{count, plural, =1{1 hour} other{{count} hours}} ago",
+  "readableTimestampInMinutes": "{count, plural, =1{1 minute} other{{count} minutes}} ago",
+  "readableTimestampInSeconds": "{count, plural, =1{1 second} other{{count} seconds}} ago",
+  "readableTimestampMoreHalfHour": "More than half hour ago",
+  "readableTimestampNow": "Now",
+  "readableTimestampThreeWeeks": "3 weeks ago",
+  "readableTimestampTwoMonths": "2 months ago",
+  "readableTimestampTwoWeeks": "2 weeks ago",
+  "screenCalendarAwards": "Awards",
+  "screenCalendarCategoryFieldText": "Category",
+  "screenCalendarCategoryList": ",Ad/Marketing Agency,Artist/Painter,Body Painter,Brand Owner,Brand Representative,Casting Director,Clothing Designer,Digital Artist,Employment Recruiter,Event Promoter,Film Maker,Hair Stylist,Influencer,Makeup Artist,Model,Modeling Agent,Musician,Other,Photographer,Publication,Retoucher,Videographer,Wardrobe",
+  "screenCalendarCheckinEnd": "Check-in End",
+  "screenCalendarCheckinStart": "Check-in Start",
+  "screenCalendarDescription": "Description",
+  "screenCalendarEventEnd": "End Date & Time",
+  "screenCalendarEventStart": "Start Date & Time",
+  "screenCalendarGuests": "Guests",
+  "screenCalendarLocation": "Location",
+  "screenCalendarMaxParticipations": "Max Participations",
+  "screenCalendarRewardCheckin": "Reward for check-in",
+  "screenCalendarRewardIncentives": "Rewards & Incentives",
+  "screenCalendarRewardIncertiveTimelyCheckin": "Reward for incertive timely check-in",
+  "screenCalendarRewardRSVP": "Reward for RSVP",
+  "screenCalendarSave": "Save",
+  "screenCalendarSeeGuestList": "See guest list",
+  "screenEventEditorDropDownAwards": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th",
+  "screenCalendarTextFieldTitleText": "Title",
+  "screenCalendarTitle": "Physical Event Details",
+  "screenCalendarVoters": "Voters",
+  "screenCalendarVotingMethod": "Voting method",
+  "screenCalendarWhoCanInvite": "Who can invite",
+  "screenChallengeSelectionIncoming": "Coming Soon",
+  "screenChallengeSelectionLoseInternetConnection": "Unable to load the challenge list.\nTap below to retry.",
+  "screenChallengeSelectionNow": "Happening Now",
+  "screenChallengeSelectionPast": "Past Challenges",
+  "screenChallengeSelectionTitleSelect": "Pick a Challenge",
+  "screenChallengeSelectionTitleSwitch": "Switch Challenge",
+  "screenChatTabChannels": "Channels",
+  "screenChatTabDirectMessages": "Direct",
+  "screenLoginElevetedButtonLoginText": "Take the Challenge",
+  "screenLoginTextButtonCreateAccountText": "Create a new account",
+  "screenLoginTextButtonForgotPasswordText": "Forgot Password?",
+  "screenLoginTextFieldPasswordText": "Password",
+  "screenLoginTextFieldUsernameText": "Email",
+  "screenMainBottomNavigationBarItemCalendar": "Calendar",
+  "screenMainBottomNavigationBarItemChat": "Chat",
+  "screenMainBottomNavigationBarItemFeed": "Feed",
+  "screenMainBottomNavigationBarItemHome": "Home",
+  "screenMainBottomNavigationBarItemScores": "Scores",
+  "screenMainPopUpButtonFirstItemText": "Change Challenge",
+  "screenMainPopUpButtonSecondItemText": "My Profile",
+  "screenMainPopUpButtonThirthItemText": "Settings",
+  "screenMainPopUpButtonToolTipText": "Actions",
+  "screenProfileSelectGallery": "Select from gallery",
+  "screenProfileTakePhoto": "Take a photo",
+  "screenProfileText": "You look great today! Do you want me to immortalize this moment?",
+  "screenProfileTextOr": "Or",
+  "screenProfilePageSectionAboutText": "About me",
+  "screenRecoveryCodeElevetedButtonSearchText": "Recover my account",
+  "screenRecoveryCodeSnackbarUserNotFoundText": "Unable to get recovery code",
+  "screenRecoveryCodeTextButtonResendCodeText": "Resend a new code",
+  "screenRecoveryCodeTextDescriptionEmailText": "Please enter the recovery code we sent to your email {value}",
+  "screenRecoveryCodeTextDescriptionTextMessageText": "Please enter the recovery code we sent to your phone number {value}",
+  "screenRecoveryCodeTextFieldRecoveryCodeText": "Recovery Code",
+  "screenRecoveryCodeTextSubtitleText": "Recovery Code",
+  "screenRecoveryMethodChoiceText": "How do you want to get the code to reset your password?",
+  "screenRecoveryMethodContactPreText": "If you do not have access to your phone nor email, please contact us at ",
+  "screenRecoveryMethodContactSuftext": "",
+  "screenRecoveryMethodEmailButtonText": "Send me an email at\n{value}",
+  "screenRecoveryMethodEmailDisabledButtonText": "No email addresses found!",
+  "screenRecoveryMethodTextMessageButtonText": "Send me a text message at\n{value}",
+  "screenRecoveryMethodTextMessageDisabledButtonText": "No phone numbers found!",
+  "screenRecoveryMethodTextSubtitle": "Recovery Method",
+  "screenRecoveryMethodTimerText": "You can resend a new code in {count,plural, =1{1 second} other{{count} seconds}}.",
+  "screenResetPasswordElevetedButtonText": "Reset Password",
+  "screenResetPasswordSnackbarInsufficientCharacterText": "New password should be at least 8 characters",
+  "screenResetPasswordSnackbarInvalidPasswordText": "Passwords are not same",
+  "screenResetPasswordTextDescription": "Please enter a new password. New password must be at least eight characters in length, cannot be the same as any previous password used. It must contain both uppercase and lowercase characters and least one number.",
+  "screenResetPasswordTextFieldConfirmNewPasswordText": "Confirm New Password",
+  "screenResetPasswordTextFieldNewPasswordText": "New Password",
+  "screenResetPasswordTextSubtitle": "Reset Password",
+  "screenChancePasswordTextTitle": "Change Password",
+  "screenChancePasswordTextFieldPasswordText": "Password",
+  "screenChancePasswordSnackbarWrongPasswordText": "Wrong password",
+  "screenChancePasswordSnackbarSamePasswordText": "Old password and new password cannot be the same",
+  "screenChangePasswordElevetedButtonText": "Change Password",
+  "screenChancePasswordTextDescription": "Please enter a new password. New password must be at least eight characters in length, cannot be the same as any previous password used. It must contain both uppercase and lowercase characters and least one number.",
+  "screenChancePasswordTextFieldConfirmNewPasswordText": "Confirm New Password",
+  "screenChancePasswordTextFieldNewPasswordText": "New Password",
+  "screenChancePasswordSnackbarInsufficientCharacterText": "New password should be at least 8 characters",
+  "screenChancePasswordSnackbarInvalidPasswordText": "New passwords are not same",
+  "screenSearchUserElevetedButtonSearchText": "Find my account",
+  "screenSearchUserSnackbarUserNotFoundText": "Unable to find email, phone, or username you entered.",
+  "screenSearchUserTextDescription": "Let's find your account first, please enter your email.",
+  "screenSearchUserTextSubtitle": "Trouble Logging In?",
+  "screenSettingsDialogButtonClose": "Close",
+  "screenSettingsListAccountDeleteSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListAccountDeleteTitle": "Delete",
+  "screenSettingsListAccountDisableSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListAccountDisableTitle": "Disable",
+  "screenSettingsListAccountLabelText": "Account",
+  "screenSettingsListAccountLogoutSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListAccountLogoutTitle": "Logout",
+  "screenSettingsListAppearanceFontScalingHuge": "Huge",
+  "screenSettingsListAppearanceFontScalingLarge": "Large",
+  "screenSettingsListAppearanceFontScalingNormal": "Normal",
+  "screenSettingsListAppearanceFontScalingSmall": "Small",
+  "screenSettingsListAppearanceFontScalingSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListAppearanceFontScalingSystemDefined": "System Defined",
+  "screenSettingsListAppearanceFontScalingTitle": "Font Scaling",
+  "screenSettingsListAppearanceLabelText": "Appearance",
+  "screenSettingsListAppearanceThemeDark": "Dark",
+  "screenSettingsListAppearanceThemeLight": "Light",
+  "screenSettingsListAppearanceThemeSelected": "{theme, select, light {Light} dark {Dark} other {Light}}",
+  "screenSettingsListAppearanceThemeSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListAppearanceThemeTitle": "Theme",
+  "screenSettingsListLegalLabelText": "Legal",
+  "screenSettingsListLegalPrivacyPolicySubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListLegalPrivacyPolicyTitle": "Privacy Policy",
+  "screenSettingsListLegalTermsOfUseSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListLegalTermsOfUseTitle": "Terms of Use",
+  "screenSettingsListLogoutButton": "Logout",
+  "screenSettingsListLocaleHourCycleSelected": "{cycle, select, 24 {24 Hours} 12 {12 Hours} other {24 Hours}}",
+  "screenSettingsListLocaleHourCycleSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListLocaleHourCycleTitle": "Hour Cycle",
+  "screenSettingsListLocaleHourCycleTwelve": "12 Hours",
+  "screenSettingsListLocaleHourCycleTwentyFour": "24 Hours",
+  "screenSettingsListLocaleLabelText": "Locale",
+  "screenSettingsListLocaleLanguageEnglishAmerican": "English(American)",
+  "screenSettingsListLocaleLanguageEnglishBritish": "English(British)",
+  "screenSettingsListLocaleLanguageSelected": "{language, select, en_us {English (American)} en_uk {English (British)} tr_tr {Turkish} other {English (American)}}",
+  "screenSettingsListLocaleLanguageSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListLocaleLanguageTitle": "Language",
+  "screenSettingsListLocaleLanguageTurkish": "Turkish",
+  "screenSettingsListOtherLabelText": "Other",
+  "screenSettingsListPlatformInfoSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListPlatformInfoTitle": "Platform Information",
+  "screenSettingsListUnitsLabelText": "Units",
+  "screenSettingsListUnitsLengthImperial": "Imperial",
+  "screenSettingsListUnitsLengthMetric": "Metric",
+  "screenSettingsListUnitsLengthSelected": "{unit, select, metrik {Metric} imperial {Imperial} abd_native {US Customary} other {Metric}}",
+  "screenSettingsListUnitsLengthSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListUnitsLengthTitle": "Length",
+  "screenSettingsListUnitsLengthUsCustomary": "US Customary",
+  "screenSettingsListUnitsTemperatureCelcius": "Celcius",
+  "screenSettingsListUnitsTemperatureFahrenheit": "Fahrenheit",
+  "screenSettingsListUnitsTemperatureKelvin": "Kelvin",
+  "screenSettingsListUnitsTemperatureSelected": "{unit, select, c {Celcius} f {Fahrenheit} k {Kelvin} other {Celcius}}",
+  "screenSettingsListUnitsTemperatureSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListUnitsTemperatureTitle": "Temperature",
+  "screenSettingsListUnitsVolumeLiter": "Liter",
+  "screenSettingsListUnitsVolumeSelected": "{unit, select, liter {Liter} x {X} y {Y} other {Liter}}",
+  "screenSettingsListUnitsVolumeSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListUnitsVolumeTitle": "Volume",
+  "screenSettingsListUnitsVolumeX": "X",
+  "screenSettingsListUnitsVolumeY": "Y",
+  "screenSettingsListUnitsWeightKg": "Kilogram",
+  "screenSettingsListUnitsWeightLbs": "Lbs",
+  "screenSettingsListUnitsWeightPound": "Pound",
+  "screenSettingsListUnitsWeightSelected": "{unit, select, kg {Kilogram} lbs {Lbs} pound {Pound} other {Kilogram}}",
+  "screenSettingsListUnitsWeightSubtitle": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenSettingsListUnitsWeightTitle": "Weight",
+  "screenSignupCategoryFieldText": "Category",
+  "screenSignupCategoryList": ",Ad/Marketing Agency,Artist/Painter,Body Painter,Brand Owner,Brand Representative,Casting Director,Clothing Designer,Digital Artist,Employment Recruiter,Event Promoter,Film Maker,Hair Stylist,Influencer,Makeup Artist,Model,Modeling Agent,Musician,Other,Photographer,Publication,Retoucher,Videographer,Wardrobe",
+  "screenEventEditorDropDownVotingMethodList": ",Top-n,Last-n,Pick-n,Y/N,Score Everyone",
+  "screenEventEditorDropDownSeeGuestList": ",Public,Private,Participants Only",
+  "screenEventEditorDropDownAwardsList": ",1 Point,2 Points,3 Points,4 Points,5 Points,6 Points,7 Points,8 Points,9 Points,10 Points",
+  "screenSignupElevatedButtonCreateText": "Create my account",
+  "screenSignupPasswordLength": "Password should be 8 characters long.",
+  "screenSignupPasswordsAreIdentical": "Password and confirm password don't match.",
+  "screenSignupPolicyPretext": "By signing up, you agree to the ",
+  "screenSignupPolicyPrivacyPolicy": "Privacy Policy",
+  "screenSignupPolicySuftext": " and ",
+  "screenSignupPolicySuftextSecond": ".",
+  "screenSignupPolicyTermsOfService": "Terms of Service",
+  "screenSignupTextCreateAccount": "Create a New Account",
+  "screenSignupTextFieldConfirmPasswordText": "Re-enter password",
+  "screenSignupTextFieldDateOfBirthText": "Date of birth",
+  "screenSignupTextFieldEmailText": "Email or phone",
+  "screenSignupTextFieldFullnameText": "Fullname",
+  "screenSignupTextFieldPasswordText": "Password",
+  "screenSignupTextFildDateOfBirthDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+  "screenVerificationCodeElevetedButtonText": "Let me dive right in!",
+  "screenVerificationCodeSnackbarUserNotFound": "Unable to get verification code",
+  "screenVerificationCodeTextButtonResendCode": "Resend a new code",
+  "screenVerificationCodeTextDescriptionEmail": "Please enter the verification code we sent to your email {value}",
+  "screenVerificationCodeTextDescriptionTextMessage": "Please enter the verification code we sent to your phone number {value}",
+  "screenVerificationCodeTextFieldVerificationCode": "Verification Code",
+  "screenVerificationCodeTextSubtitle": "Verification Code",
+  "screenVerificationMethodTimerText": "You can resend a new code in {count,plural, =1{1 second} other{{count} seconds}}.",
+  "screenQrGeneratorAppBarTitleText": "Generate A Code",
+  "screenPeoplePickerTextFormFieldLabelTextSearch": "Search",
+  "screenPeoplePickerAppBarTitleText": "Voters",
+  "screenPeoplePickerAppBarTitleText2": "Inviters",
+  "screenPeoplePickerAppBarTitleText3": "Guests",
+  "screenPeoplePickerElevatedButtonTextUncheckAll": "Uncheck All",
+  "screenPeoplePickerElevatedButtonTextSelectAll": "Select All",
+  "screenEventEditorStartTimePickerHelpMessage": "Start Time",
+  "screenEventEditorEndTimePickerHelpMessage": "End Time",
+  "screenEventEditorStartDatePickerHelpMessage": "Start Date",
+  "screenEventEditorEndDatePickerHelpMessage": "End Date",
+  "screenEventEditorTimePickerErrorMessage": "Start time has to be earlier than end time!",
+  "screenChatTextFieldHintText": "Message",
+  "screenScoreTabBarFirstTabText": "Daily",
+  "screenScoreTabBarSecondTabText": "Events",
+  "screenScoreTabBarThirdTabText": "Advanced",
+  "screenScoreDailyTabOverallText": "Overall",
+  "screenScoreDailyTabDayPlaceHolder": "Day",
+  "screenScoreEventTabDropDownHintText": "Search Event",
+  "screenScoreAdvancedTabDateRangePickerHintText": "Start Date & End Date",
+  "screenScoreAdvancedTabDateRangePickerHelpText": "Date Range",
+  "@screenScoreAdvancedTabDateRangePickerHelpText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenScoreAdvancedTabDateRangePickerHintText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenScoreEventTabDropDownHintText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenScoreDailyTabDayPlaceHolder": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenScoreDailyTabOverallText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenScoreTabBarThirdTabText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenScoreTabBarSecondTabText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenScoreTabBarFirstTabText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenEventEditorStartTimePickerHelpMessage": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenPeoplePickerAppBarTitleText2": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenPeoplePickerAppBarTitleText3": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenEventEditorEndTimePickerHelpMessage": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenEventEditorStartDatePickerHelpMessage": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenEventEditorEndDatePickerHelpMessage": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenEventEditorTimePickerErrorMessage": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChatTextFieldHintText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@apiErrorInvalidUserOrPassword": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@apiErrorUnableToConnect": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@appbarPreviousScreen": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@appHelpEmailAddress": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@appName": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@appUrlPrivacyPolicy": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@appUrlTermsOfService": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@localeDateRegularExpression": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampAHour": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampAMinutes": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampAMonth": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampAWeek": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampFewHours": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampFewMinutes": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampFewSeconds": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampHalfDay": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampHalfHour": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampInDays": {
+    "placeholders": {
+      "count": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampInHours": {
+    "placeholders": {
+      "count": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampInMinutes": {
+    "placeholders": {
+      "count": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampInSeconds": {
+    "placeholders": {
+      "count": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampMoreHalfHour": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampNow": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampThreeWeeks": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampTwoMonths": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@readableTimestampTwoWeeks": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarAwards": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarCategoryFieldText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarCategoryList": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarCheckinEnd": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarCheckinStart": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarDescription": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarEventEnd": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarEventStart": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarGuests": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarLocation": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarMaxParticipations": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarRewardCheckin": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarRewardIncentives": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarRewardIncertiveTimelyCheckin": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarRewardRSVP": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarSave": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarSeeGuestList": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenEventEditorDropDownAwards": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarTextFieldTitleText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarVoters": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarVotingMethod": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenCalendarWhoCanInvite": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChallengeSelectionIncoming": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChallengeSelectionLoseInternetConnection": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChallengeSelectionNow": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChallengeSelectionPast": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChallengeSelectionTitleSelect": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChallengeSelectionTitleSwitch": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChatTabChannels": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChatTabDirectMessages": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenLoginElevetedButtonLoginText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenLoginTextButtonCreateAccountText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenLoginTextButtonForgotPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenLoginTextFieldPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenLoginTextFieldUsernameText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenMainBottomNavigationBarItemCalendar": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenMainBottomNavigationBarItemChat": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenMainBottomNavigationBarItemFeed": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenMainBottomNavigationBarItemHome": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenMainBottomNavigationBarItemScores": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenMainPopUpButtonFirstItemText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenMainPopUpButtonSecondItemText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenMainPopUpButtonThirthItemText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenMainPopUpButtonToolTipText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenProfileSelectGallery": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenProfileTakePhoto": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenProfileText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenProfileTextOr": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenProfilePageSectionAboutText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryCodeElevetedButtonSearchText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryCodeSnackbarUserNotFoundText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryCodeTextButtonResendCodeText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryCodeTextDescriptionEmailText": {
+    "placeholders": {
+      "value": {
+        "Type": "String"
+      }
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryCodeTextDescriptionTextMessageText": {
+    "placeholders": {
+      "value": {
+        "Type": "String"
+      }
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryCodeTextFieldRecoveryCodeText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryCodeTextSubtitleText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryMethodChoiceText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryMethodContactPreText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryMethodContactSuftext": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryMethodEmailButtonText": {
+    "placeholders": {
+      "value": {
+        "Type": "String"
+      }
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryMethodEmailDisabledButtonText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryMethodTextMessageButtonText": {
+    "placeholders": {
+      "value": {
+        "Type": "String"
+      }
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryMethodTextMessageDisabledButtonText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryMethodTextSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenRecoveryMethodTimerText": {
+    "placeholders": {
+      "count": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenResetPasswordElevetedButtonText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenResetPasswordSnackbarInsufficientCharacterText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenResetPasswordSnackbarInvalidPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenResetPasswordTextDescription": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenResetPasswordTextFieldConfirmNewPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenResetPasswordTextFieldNewPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenResetPasswordTextSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSearchUserElevetedButtonSearchText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSearchUserSnackbarUserNotFoundText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSearchUserTextDescription": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSearchUserTextSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsDialogButtonClose": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAccountDeleteSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAccountDeleteTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAccountDisableSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAccountDisableTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAccountLabelText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAccountLogoutSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAccountLogoutTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceFontScalingHuge": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceFontScalingLarge": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceFontScalingNormal": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceFontScalingSmall": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceFontScalingSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceFontScalingSystemDefined": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceFontScalingTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceLabelText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceThemeDark": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceThemeLight": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceThemeSelected": {
+    "placeholders": {
+      "theme": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceThemeSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListAppearanceThemeTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLegalLabelText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLegalPrivacyPolicySubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLegalPrivacyPolicyTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLegalTermsOfUseSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLegalTermsOfUseTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleHourCycleSelected": {
+    "placeholders": {
+      "cycle": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleHourCycleSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleHourCycleTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleHourCycleTwelve": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleHourCycleTwentyFour": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleLabelText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleLanguageEnglishAmerican": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleLanguageEnglishBritish": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleLanguageSelected": {
+    "placeholders": {
+      "language": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleLanguageSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleLanguageTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListLocaleLanguageTurkish": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListOtherLabelText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListPlatformInfoSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListPlatformInfoTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsLabelText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsLengthImperial": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsLengthMetric": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsLengthSelected": {
+    "placeholders": {
+      "unit": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsLengthSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsLengthTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsLengthUsCustomary": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsTemperatureCelcius": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsTemperatureFahrenheit": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsTemperatureKelvin": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsTemperatureSelected": {
+    "placeholders": {
+      "unit": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsTemperatureSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsTemperatureTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsVolumeLiter": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsVolumeSelected": {
+    "placeholders": {
+      "unit": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsVolumeSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsVolumeTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsVolumeX": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsVolumeY": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsWeightKg": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsWeightLbs": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsWeightPound": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsWeightSelected": {
+    "placeholders": {
+      "unit": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsWeightSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSettingsListUnitsWeightTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupCategoryFieldText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupCategoryList": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenEventEditorDropDownVotingMethodList": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenEventEditorDropDownSeeGuestList": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenEventEditorDropDownAwardsList": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupElevatedButtonCreateText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupPasswordLength": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupPasswordsAreIdentical": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupPolicyPretext": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupPolicyPrivacyPolicy": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupPolicySuftext": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupPolicySuftextSecond": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupPolicyTermsOfService": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupTextCreateAccount": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupTextFieldConfirmPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupTextFieldDateOfBirthText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupTextFieldEmailText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupTextFieldFullnameText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupTextFieldPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenSignupTextFildDateOfBirthDescription": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenVerificationCodeElevetedButtonText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenVerificationCodeSnackbarUserNotFound": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenVerificationCodeTextButtonResendCode": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenVerificationCodeTextDescriptionEmail": {
+    "placeholders": {
+      "value": {
+        "Type": "String"
+      }
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenVerificationCodeTextDescriptionTextMessage": {
+    "placeholders": {
+      "value": {
+        "Type": "String"
+      }
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenVerificationCodeTextFieldVerificationCode": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenVerificationCodeTextSubtitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenVerificationMethodTimerText": {
+    "placeholders": {
+      "count": {}
+    },
+    "description": "",
+    "type": "text"
+  },
+  "@screenQrGeneratorAppBarTitleText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenPeoplePickerTextFormFieldLabelTextSearch": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenPeoplePickerAppBarTitleText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenPeoplePickerElevatedButtonTextUncheckAll": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenPeoplePickerElevatedButtonTextSelectAll": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChancePasswordTextTitle": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChancePasswordTextFieldPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChancePasswordSnackbarWrongPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChancePasswordSnackbarSamePasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChangePasswordElevetedButtonText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChancePasswordTextDescription": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChancePasswordTextFieldConfirmNewPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChancePasswordTextFieldNewPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChancePasswordSnackbarInsufficientCharacterText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  },
+  "@screenChancePasswordSnackbarInvalidPasswordText": {
+    "placeholders": {},
+    "description": "",
+    "type": "text"
+  }
+}

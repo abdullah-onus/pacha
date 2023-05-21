@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:2:5-25:19
+MERGED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\emiro\.gradle\caches\transforms-3\cbbd95a71c37efdfc64418cb4f36b641\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\emiro\.gradle\caches\transforms-3\cbbd95a71c37efdfc64418cb4f36b641\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\emiro\.gradle\caches\transforms-3\c4a0a4d3a61ffcb4c0191c556281b7d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\emiro\.gradle\caches\transforms-3\c4a0a4d3a61ffcb4c0191c556281b7d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\emiro\.gradle\caches\transforms-3\cbbd95a71c37efdfc64418cb4f36b641\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [:shared_preferences_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\emiro\Desktop\Caretta\pacha-app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:device_info_plus] C:\Users\emiro\Desktop\Caretta\pacha-app\build\device_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] C:\Users\emiro\Desktop\Caretta\pacha-app\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_cropper] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\webview_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1e48c36cc1386eba497f263583d951c\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\61880fc772287f31d7f1acd5bcc903d9\transformed\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\5b4b1d63d81d1c517bf7ee1f1896dcd9\transformed\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\ae6e559977530b78d27f3c86addffc4f\transformed\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\ee1475fb93f384a690a0f9c22fac0af8\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\8fcba4e9fca0afe39526eb6733b22dfd\transformed\webkit-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\emiro\.gradle\caches\transforms-3\4cfea599a122b7cd4bd93346fb1c4d7e\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\emiro\.gradle\caches\transforms-3\560c63206bd544d1d14ae9f44f5f04aa\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\emiro\.gradle\caches\transforms-3\68d53861dcd5325dbaa8924ede7a7698\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\emiro\.gradle\caches\transforms-3\212e59e2003b72b839102d3e4d644261\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\emiro\.gradle\caches\transforms-3\304f2ee98d53f3a2a29ee560e636d79c\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\emiro\.gradle\caches\transforms-3\4e6ec53dd275c5053459a9f65505a4fb\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\caf6de1e745df61f6451fccec9731399\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\024f89f7b0bcb5a4b2183104954f719e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\e5d2ac27c225a50a81edb9290b620e4d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\9e328987575bfdf41802763153161ac6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\5dd0ab794dfc8aa4696077a1d6ea7cc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\c87eedc8b80b35e4c1a334aa46b5f6b0\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\emiro\.gradle\caches\transforms-3\cbbd95a71c37efdfc64418cb4f36b641\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\6548f5e4fecc3f9c29cbac7e68c206ba\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\18d7ff41082be9d27f8b7c790e4fa777\transformed\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\5ba141c624cbd20a30f4fa565642fb4e\transformed\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\emiro\.gradle\caches\transforms-3\cc17076a6a2499d6b2c51143062f450d\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\emiro\.gradle\caches\transforms-3\c4a0a4d3a61ffcb4c0191c556281b7d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\c986d30640cc4863f0a8e11069c000cb\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\ef98b94208d1090689b78e30ead43162\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\5ce820004d1dc4e105dea0bac1178894\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\cb6560e1ef3c30b6498404b8748f8b1a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\d07ef59e843497e03b7fb65fbb9501c0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\emiro\.gradle\caches\transforms-3\484b1229f9982b67741b13dba8a8235c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\876a9bdb73fcc42a1de4489289d46345\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\emiro\.gradle\caches\transforms-3\b63493ec77d1bde5e0d2abbe7edd68e1\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\ce81a0b172a6089d81d3cae81c898f02\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\c558688bf1e47ba80aae06c9377dce3a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:1:70-108
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:26:5-47:11
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:28:3-31:12
+action#android.intent.action.VIEW
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:29:5-57
+	android:name
+		ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:29:13-54
+data
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:30:5-36
+	android:scheme
+		ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:30:11-33
+intent#action:name:android.intent.action.DIAL+data:scheme:tel
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:33:3-36:12
+action#android.intent.action.DIAL
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:34:5-57
+	android:name
+		ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:34:13-54
+intent#action:name:android.intent.action.SENDTO+data:scheme:smsto
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:38:3-41:12
+action#android.intent.action.SENDTO
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:39:5-59
+	android:name
+		ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:39:13-56
+intent#action:name:android.intent.action.SEND+data:mimeType:*/*
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:43:3-46:12
+action#android.intent.action.SEND
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:44:5-57
+	android:name
+		ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml:44:13-54
+uses-sdk
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\emiro\Desktop\Caretta\pacha-app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\emiro\Desktop\Caretta\pacha-app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] C:\Users\emiro\Desktop\Caretta\pacha-app\build\device_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] C:\Users\emiro\Desktop\Caretta\pacha-app\build\device_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\emiro\Desktop\Caretta\pacha-app\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\emiro\Desktop\Caretta\pacha-app\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\webview_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\webview_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1e48c36cc1386eba497f263583d951c\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1e48c36cc1386eba497f263583d951c\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\61880fc772287f31d7f1acd5bcc903d9\transformed\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\61880fc772287f31d7f1acd5bcc903d9\transformed\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\5b4b1d63d81d1c517bf7ee1f1896dcd9\transformed\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\5b4b1d63d81d1c517bf7ee1f1896dcd9\transformed\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\ae6e559977530b78d27f3c86addffc4f\transformed\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\ae6e559977530b78d27f3c86addffc4f\transformed\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\ee1475fb93f384a690a0f9c22fac0af8\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\ee1475fb93f384a690a0f9c22fac0af8\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\8fcba4e9fca0afe39526eb6733b22dfd\transformed\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\8fcba4e9fca0afe39526eb6733b22dfd\transformed\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\emiro\.gradle\caches\transforms-3\4cfea599a122b7cd4bd93346fb1c4d7e\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\emiro\.gradle\caches\transforms-3\4cfea599a122b7cd4bd93346fb1c4d7e\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\emiro\.gradle\caches\transforms-3\560c63206bd544d1d14ae9f44f5f04aa\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\emiro\.gradle\caches\transforms-3\560c63206bd544d1d14ae9f44f5f04aa\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\emiro\.gradle\caches\transforms-3\68d53861dcd5325dbaa8924ede7a7698\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\emiro\.gradle\caches\transforms-3\68d53861dcd5325dbaa8924ede7a7698\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\emiro\.gradle\caches\transforms-3\212e59e2003b72b839102d3e4d644261\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\emiro\.gradle\caches\transforms-3\212e59e2003b72b839102d3e4d644261\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\emiro\.gradle\caches\transforms-3\304f2ee98d53f3a2a29ee560e636d79c\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\emiro\.gradle\caches\transforms-3\304f2ee98d53f3a2a29ee560e636d79c\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\emiro\.gradle\caches\transforms-3\4e6ec53dd275c5053459a9f65505a4fb\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\emiro\.gradle\caches\transforms-3\4e6ec53dd275c5053459a9f65505a4fb\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\caf6de1e745df61f6451fccec9731399\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\caf6de1e745df61f6451fccec9731399\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\024f89f7b0bcb5a4b2183104954f719e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\024f89f7b0bcb5a4b2183104954f719e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\e5d2ac27c225a50a81edb9290b620e4d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\e5d2ac27c225a50a81edb9290b620e4d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\9e328987575bfdf41802763153161ac6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\9e328987575bfdf41802763153161ac6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\5dd0ab794dfc8aa4696077a1d6ea7cc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\5dd0ab794dfc8aa4696077a1d6ea7cc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\c87eedc8b80b35e4c1a334aa46b5f6b0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\c87eedc8b80b35e4c1a334aa46b5f6b0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\emiro\.gradle\caches\transforms-3\cbbd95a71c37efdfc64418cb4f36b641\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\emiro\.gradle\caches\transforms-3\cbbd95a71c37efdfc64418cb4f36b641\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\6548f5e4fecc3f9c29cbac7e68c206ba\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\6548f5e4fecc3f9c29cbac7e68c206ba\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\18d7ff41082be9d27f8b7c790e4fa777\transformed\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\18d7ff41082be9d27f8b7c790e4fa777\transformed\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\5ba141c624cbd20a30f4fa565642fb4e\transformed\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\5ba141c624cbd20a30f4fa565642fb4e\transformed\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\emiro\.gradle\caches\transforms-3\cc17076a6a2499d6b2c51143062f450d\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\emiro\.gradle\caches\transforms-3\cc17076a6a2499d6b2c51143062f450d\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\emiro\.gradle\caches\transforms-3\c4a0a4d3a61ffcb4c0191c556281b7d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\emiro\.gradle\caches\transforms-3\c4a0a4d3a61ffcb4c0191c556281b7d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\c986d30640cc4863f0a8e11069c000cb\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\c986d30640cc4863f0a8e11069c000cb\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\ef98b94208d1090689b78e30ead43162\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\ef98b94208d1090689b78e30ead43162\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\5ce820004d1dc4e105dea0bac1178894\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\5ce820004d1dc4e105dea0bac1178894\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\cb6560e1ef3c30b6498404b8748f8b1a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\cb6560e1ef3c30b6498404b8748f8b1a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\d07ef59e843497e03b7fb65fbb9501c0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\d07ef59e843497e03b7fb65fbb9501c0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\emiro\.gradle\caches\transforms-3\484b1229f9982b67741b13dba8a8235c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\emiro\.gradle\caches\transforms-3\484b1229f9982b67741b13dba8a8235c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\876a9bdb73fcc42a1de4489289d46345\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\emiro\.gradle\caches\transforms-3\876a9bdb73fcc42a1de4489289d46345\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\emiro\.gradle\caches\transforms-3\b63493ec77d1bde5e0d2abbe7edd68e1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\emiro\.gradle\caches\transforms-3\b63493ec77d1bde5e0d2abbe7edd68e1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\ce81a0b172a6089d81d3cae81c898f02\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\emiro\.gradle\caches\transforms-3\ce81a0b172a6089d81d3cae81c898f02\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\c558688bf1e47ba80aae06c9377dce3a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\emiro\.gradle\caches\transforms-3\c558688bf1e47ba80aae06c9377dce3a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\emiro\Desktop\Caretta\pacha-app\android\app\src\debug\AndroidManifest.xml:6:22-64
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] C:\Users\emiro\Desktop\Caretta\pacha-app\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from [:camera] C:\Users\emiro\Desktop\Caretta\pacha-app\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-68
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\emiro\Desktop\Caretta\pacha-app\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\emiro\.gradle\caches\transforms-3\e1122a04ff3f2e301327facd1abb25ea\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\ee1475fb93f384a690a0f9c22fac0af8\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\5ba141c624cbd20a30f4fa565642fb4e\transformed\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\5ba141c624cbd20a30f4fa565642fb4e\transformed\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\emiro\.gradle\caches\transforms-3\ee1475fb93f384a690a0f9c22fac0af8\transformed\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:22-76

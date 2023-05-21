@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\emiro\\Desktop\\Caretta\\pacha-app\\build\\camera\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\emiro\\.gradle\\caches\\transforms-3\\cbbd95a71c37efdfc64418cb4f36b641\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\emiro\\Desktop\\Caretta\\pacha-app\\build\\camera\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\emiro\\.gradle\\caches\\transforms-3\\cbbd95a71c37efdfc64418cb4f36b641\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\emiro\\Desktop\\Caretta\\pacha-app\\build\\camera\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\emiro\\.gradle\\caches\\transforms-3\\cbbd95a71c37efdfc64418cb4f36b641\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]
